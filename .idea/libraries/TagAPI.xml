@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TagAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/TagAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <LIBRARY_FILE />
+    <SOURCES />
+  </library>
+</component>

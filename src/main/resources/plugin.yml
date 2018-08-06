@@ -1,0 +1,11 @@
+name: TheAnonymous
+version: ${project.version}
+main: jp.msfblue1.theanonymous.TheAnonymous
+softdepend: [Multiverse-Core]
+permissions:
+  anonymous.join.nochange:
+    description: 'スキンの変更をパスします'
+    default: false
+commands:
+  skinclear:
+    description: ''

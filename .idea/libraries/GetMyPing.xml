@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="GetMyPing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GetMyPing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <LIBRARY_FILE />
+    <SOURCES />
+  </library>
+</component>

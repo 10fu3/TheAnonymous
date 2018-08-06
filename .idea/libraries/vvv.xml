@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="vvv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/vvv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <LIBRARY_FILE />
+    <SOURCES />
+  </library>
+</component>

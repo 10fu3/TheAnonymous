@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SAMPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/SAMPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <LIBRARY_FILE />
+    <SOURCES />
+  </library>
+</component>
